@@ -1,4 +1,4 @@
-# 📖 StoryCanvas — AI Illustrated Children's Book Generator
+# 📖 StoryCanvas — AI Illustrated Childrens Book Generator
 
 Generate fully illustrated children's books from a single sentence using
 **Gemini 2.0 Flash** (story writing) and **Imagen 3 / Nano Banana** (illustrations).
